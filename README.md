@@ -7,3 +7,4 @@ As of now I included 3 AR implementations:
 2.A video played as an AR overlay on top of an image target.
 
 3.A fully realised 3D model of the solar system along with planet orbits & their rotation around the sun.
+
