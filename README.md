@@ -8,4 +8,6 @@ As of now I included 3 AR implementations:
 
 3.A fully realised 3D model of the solar system along with planet orbits & their rotation around the sun.
 
+Video Demo: https://drive.google.com/file/d/1ya3MipJNW1mzA0739F0ISQBMAys7ongF/view?usp=sharing
+
 ![Image of AR Model](https://github.com/Nahush22/AR-Space-App/blob/master/spaceAR.jpg)
