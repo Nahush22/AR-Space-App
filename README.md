@@ -10,4 +10,5 @@ As of now I included 3 AR implementations:
 
 Video Demo: https://drive.google.com/file/d/1iPHjLp-V7tWAExSWmEbfdXId7MiZpeDV/view?usp=sharing
 
-![Image of AR Model](https://github.com/Nahush22/AR-Space-App/blob/master/spaceAR.jpg)
+![Image of Rocket AR Model](https://github.com/Nahush22/AR-Space-App/blob/master/rocketAr.jpg)
+![Image of Solar System AR Model](https://github.com/Nahush22/AR-Space-App/blob/master/spaceAR.jpg)
